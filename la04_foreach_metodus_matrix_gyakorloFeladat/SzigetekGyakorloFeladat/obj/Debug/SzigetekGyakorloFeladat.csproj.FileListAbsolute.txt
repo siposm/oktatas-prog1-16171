@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\Pokemon-csata\SzigetekGyakorloFeladat\bin\Debug\SzigetekGyakorloFeladat.exe.config
+C:\Users\sm\Desktop\Pokemon-csata\SzigetekGyakorloFeladat\bin\Debug\SzigetekGyakorloFeladat.exe
+C:\Users\sm\Desktop\Pokemon-csata\SzigetekGyakorloFeladat\bin\Debug\SzigetekGyakorloFeladat.pdb
+C:\Users\sm\Desktop\Pokemon-csata\SzigetekGyakorloFeladat\obj\Debug\SzigetekGyakorloFeladat.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\Pokemon-csata\SzigetekGyakorloFeladat\obj\Debug\SzigetekGyakorloFeladat.exe
+C:\Users\sm\Desktop\Pokemon-csata\SzigetekGyakorloFeladat\obj\Debug\SzigetekGyakorloFeladat.pdb

@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\KosarlabdaDobasSzimulalo\KosarlabdaDobasSzimulalo\bin\Debug\KosarlabdaDobasSzimulalo.exe.config
+C:\Users\sm\Desktop\KosarlabdaDobasSzimulalo\KosarlabdaDobasSzimulalo\bin\Debug\KosarlabdaDobasSzimulalo.exe
+C:\Users\sm\Desktop\KosarlabdaDobasSzimulalo\KosarlabdaDobasSzimulalo\bin\Debug\KosarlabdaDobasSzimulalo.pdb
+C:\Users\sm\Desktop\KosarlabdaDobasSzimulalo\KosarlabdaDobasSzimulalo\obj\Debug\KosarlabdaDobasSzimulalo.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\KosarlabdaDobasSzimulalo\KosarlabdaDobasSzimulalo\obj\Debug\KosarlabdaDobasSzimulalo.exe
+C:\Users\sm\Desktop\KosarlabdaDobasSzimulalo\KosarlabdaDobasSzimulalo\obj\Debug\KosarlabdaDobasSzimulalo.pdb

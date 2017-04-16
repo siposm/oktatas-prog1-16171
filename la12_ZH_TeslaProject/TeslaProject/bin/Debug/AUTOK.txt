@@ -1,0 +1,16 @@
+@NFZ237:Volkswagen,Golf V:2007:143:2800>Kiss Ferencné/1955.04.22./Nő
+@MES112:Volkswagen,Golf VI:2016:150:2300>Megyeri Norbert/1992.01.02./Férfi
+@KTM980:Nissan,GTR:2010:650:3000>Szirony László/1987.10.10./Férfi
+@IIS670:Audi,R8:2015:480:2200>Dombovári Dávid/1989.12.06./Férfi
+@MAL632:Peugeot,306:2009:130:2000>Szabó Balázs/1993.03.10./Férfi
+@LMA911:Honda,Civic:2007:143:2800>Horváth Zsófia/1995.05.29./Nő
+@OOP666:Batmobil,XXX:2027:999:5800>Rácz István/1993.10.20./Férfi
+@YOL729:Fiat,Punto:2004:90:1500>Jeszenszky Bence/1993.10.21./Férfi
+@ALK992:Volkswagen,Scirocco:2010:200:2800>Borz György/1955.05.10./Férfi
+@MOD324:Volkswagen,Golf VI:2016:190:2300>Könczöl Boldizsár/1993.01.02./Férfi
+@KTV888:Nissan,Qashqai:2011:90:1500>Flegma Anna/1980.12.10./Nő
+@IIZ739:Audi,RS6:2016:480:2200>Simondán Gabriella/1989.12.06./Nő
+@OPA921:Ferrari,Italia:2011:530:1000>Nicholas Cage/1960.03.10./Férfi
+@LMO911:Honda,Accord:2002:110:2100>Tóth Tímea/1995.07.07./Nő
+@XIO266:Panzer,GTA:2001:5:9800>Tyihák János/1993.02.20./Férfi
+@YUI229:Fiat,Seicento:1990:80:1500>Varga Bence/1993.01.21./Férfi

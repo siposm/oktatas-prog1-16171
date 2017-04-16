@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\zh-A-B-csoport\zh-A-B-csoport\bin\Debug\zh-A-B-csoport.exe.config
+C:\Users\sm\Desktop\zh-A-B-csoport\zh-A-B-csoport\bin\Debug\zh-A-B-csoport.exe
+C:\Users\sm\Desktop\zh-A-B-csoport\zh-A-B-csoport\bin\Debug\zh-A-B-csoport.pdb
+C:\Users\sm\Desktop\zh-A-B-csoport\zh-A-B-csoport\obj\Debug\zh-A-B-csoport.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\zh-A-B-csoport\zh-A-B-csoport\obj\Debug\zh-A-B-csoport.exe
+C:\Users\sm\Desktop\zh-A-B-csoport\zh-A-B-csoport\obj\Debug\zh-A-B-csoport.pdb

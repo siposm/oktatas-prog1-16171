@@ -1,0 +1,9 @@
+C:\Users\sm\Desktop\TeslaProject\TeslaProject\bin\Debug\TeslaProject.exe.config
+C:\Users\sm\Desktop\TeslaProject\TeslaProject\obj\Debug\TeslaProject.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\TeslaProject\TeslaProject\bin\Debug\TeslaProject.exe
+C:\Users\sm\Desktop\TeslaProject\TeslaProject\bin\Debug\TeslaProject.pdb
+C:\Users\sm\Desktop\TeslaProject\TeslaProject\obj\Debug\TeslaProject.exe
+C:\Users\sm\Desktop\TeslaProject\TeslaProject\obj\Debug\TeslaProject.pdb
+w:\_Egyetem\__Prog oktatás\Labor12\TeslaProject\TeslaProject\bin\Debug\TeslaProject.exe.config
+w:\_Egyetem\__Prog oktatás\Labor12\TeslaProject\TeslaProject\obj\Debug\TeslaProject.exe
+w:\_Egyetem\__Prog oktatás\Labor12\TeslaProject\TeslaProject\obj\Debug\TeslaProject.pdb

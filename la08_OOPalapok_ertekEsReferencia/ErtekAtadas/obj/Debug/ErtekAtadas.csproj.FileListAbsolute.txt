@@ -1,0 +1,6 @@
+C:\Users\sm\Desktop\OOP\ErtekAtadas\bin\Debug\ErtekAtadas.exe.config
+C:\Users\sm\Desktop\OOP\ErtekAtadas\bin\Debug\ErtekAtadas.exe
+C:\Users\sm\Desktop\OOP\ErtekAtadas\bin\Debug\ErtekAtadas.pdb
+C:\Users\sm\Desktop\OOP\ErtekAtadas\obj\Debug\ErtekAtadas.csprojResolveAssemblyReference.cache
+C:\Users\sm\Desktop\OOP\ErtekAtadas\obj\Debug\ErtekAtadas.exe
+C:\Users\sm\Desktop\OOP\ErtekAtadas\obj\Debug\ErtekAtadas.pdb
